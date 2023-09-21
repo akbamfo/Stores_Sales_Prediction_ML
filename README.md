@@ -75,7 +75,7 @@ The project aims to test whether fluctuations in external factors, such as chang
 ## Project Kickoff 🏁
 
 1. Clone this repository: `git clone https://github.com/akbamfo/Stores_Sales_Prediction_ML.git`
-2. Navigate to the project directory: `LP3-Super-Store-Time-Series-Forecasting`
+2. Navigate to the project notebook Directory: `LP3_Project_notebook`
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Read the published article for a comprehensive understanding of the project.
 
